@@ -1,3 +1,5 @@
+// TODO: Understand and implement/reject below code
+
 // This optional code is used to register a service worker.
 // register() is not called by default.
 
